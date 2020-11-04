@@ -1,0 +1,606 @@
+{
+ "Achievements": {
+  "Boom Goes the Dynamite": {
+   "Complete": false
+  }, 
+  "Boxer": {
+   "Complete": false
+  }, 
+  "Dual Wielding": {
+   "Complete": false
+  }, 
+  "Flawless Victory": {
+   "Complete": false
+  }, 
+  "Free Loader": {
+   "Complete": false
+  }, 
+  "Gold Miner": {
+   "Complete": false
+  }, 
+  "Got the Moves": {
+   "Complete": false
+  }, 
+  "In Control": {
+   "Complete": false
+  }, 
+  "Last Stand God": {
+   "Complete": false
+  }, 
+  "Last Stand Master": {
+   "Complete": false
+  }, 
+  "Last Stand Wizard": {
+   "Complete": false
+  }, 
+  "Mine Games": {
+   "Complete": false
+  }, 
+  "Off You Go Then": {
+   "Complete": false
+  }, 
+  "Onslaught God": {
+   "Complete": false
+  }, 
+  "Onslaught Master": {
+   "Complete": false
+  }, 
+  "Onslaught Training Victory": {
+   "Complete": false
+  }, 
+  "Onslaught Wizard": {
+   "Complete": false
+  }, 
+  "Precision Bombing": {
+   "Complete": false
+  }, 
+  "Pro Boxer": {
+   "Complete": false
+  }, 
+  "Pro Football Shutout": {
+   "Complete": false
+  }, 
+  "Pro Football Victory": {
+   "Complete": false
+  }, 
+  "Pro Onslaught Victory": {
+   "Complete": false
+  }, 
+  "Pro Runaround Victory": {
+   "Complete": false
+  }, 
+  "Rookie Football Shutout": {
+   "Complete": false
+  }, 
+  "Rookie Football Victory": {
+   "Complete": false
+  }, 
+  "Rookie Onslaught Victory": {
+   "Complete": false
+  }, 
+  "Runaround God": {
+   "Complete": false
+  }, 
+  "Runaround Master": {
+   "Complete": false
+  }, 
+  "Runaround Wizard": {
+   "Complete": false
+  }, 
+  "Sharing is Caring": {
+   "Complete": false
+  }, 
+  "Stayin' Alive": {
+   "Complete": false
+  }, 
+  "Super Mega Punch": {
+   "Complete": false
+  }, 
+  "Super Punch": {
+   "Complete": false
+  }, 
+  "TNT Terror": {
+   "Complete": false
+  }, 
+  "Team Player": {
+   "Complete": true
+  }, 
+  "The Great Wall": {
+   "Complete": false
+  }, 
+  "The Wall": {
+   "Complete": false
+  }, 
+  "Uber Football Shutout": {
+   "Complete": false
+  }, 
+  "Uber Football Victory": {
+   "Complete": false
+  }, 
+  "Uber Onslaught Victory": {
+   "Complete": false
+  }, 
+  "Uber Runaround Victory": {
+   "Complete": false
+  }
+ }, 
+ "Auto Account State": "Server", 
+ "Auto Balance Teams": true, 
+ "Campaigns": {}, 
+ "Default Player Profiles": {
+  "Client Input Device #1": "__account__", 
+  "Client Input Device #10": "QueenCJ", 
+  "Client Input Device #11": "__account__", 
+  "Client Input Device #12": "__account__", 
+  "Client Input Device #13": "__account__", 
+  "Client Input Device #2": "__account__", 
+  "Client Input Device #3": "AGENT 47", 
+  "Client Input Device #5": "take this \ud83d\udd95\ud83d\udd95\ud83d\udd95", 
+  "Client Input Device #6": "__account__", 
+  "Client Input Device #7": "TOTAL GAMER\ud83d\ude07", 
+  "Client Input Device #8": "Whiz", 
+  "Client Input Device #9": "__account__"
+ }, 
+ "Enable Telnet": false, 
+ "Free-for-All Playlist Randomize": true, 
+ "Free-for-All Playlist Selection": "__default__", 
+ "Free-for-All Playlists": {}, 
+ "Lang": "English", 
+ "Local Account Name": "Server71888", 
+ "PSTR": 0, 
+ "Player Profiles": {
+  "__account__": {
+   "character": "Spaz", 
+   "color": [
+    0.5, 
+    0.25, 
+    1.0
+   ], 
+   "highlight": [
+    0.5, 
+    0.25, 
+    1.0
+   ]
+  }
+ }, 
+ "Port": 43210, 
+ "Show Tutorial": false, 
+ "Signed In Last Session": false, 
+ "Team Tournament Playlist Randomize": true, 
+ "Team Tournament Playlist Selection": "Playlist 18/2/ 2", 
+ "Team Tournament Playlists": {
+  "Playlist 18/2/ 2": [
+   {
+    "settings": {
+     "Epic Mode": false, 
+     "Respawn Times": 0.25, 
+     "Score to Win": 3, 
+     "Time Limit": 0, 
+     "map": "Rampage"
+    }, 
+    "type": "bsAssault.AssaultGame"
+   }, 
+   {
+    "settings": {
+     "Chosen One Gets Gloves": true, 
+     "Chosen One Gets Shield": false, 
+     "Chosen One Time": 30, 
+     "Epic Mode": false, 
+     "Respawn Times": 0.25, 
+     "Time Limit": 0, 
+     "map": "The Pad"
+    }, 
+    "type": "bsChosenOne.ChosenOneGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": true, 
+     "Kills to Win Per Player": 5, 
+     "Respawn Times": 0.25, 
+     "Time Limit": 0, 
+     "map": "Rampage"
+    }, 
+    "type": "bsDeathMatch.DeathMatchGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Happy Thoughts"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Football Stadium"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Respawn Times": 0.5, 
+     "Score to Win": 21, 
+     "Time Limit": 0, 
+     "map": "Football Stadium"
+    }, 
+    "type": "bsFootball.FootballTeamGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Step Right Up"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": 1, 
+     "Time Limit": 0, 
+     "map": "Courtyard"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": 0, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Football Stadium"
+    }, 
+    "type": "GravityFalls.GravityFalls"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Equip Boxing Gloves": true, 
+     "Equip Shield": 1, 
+     "Include bomber bots": true, 
+     "Include extra bots": 0, 
+     "Include melee bots": true, 
+     "Max Bots": 7, 
+     "Time Limit": 0, 
+     "map": "Rampage"
+    }, 
+    "type": "FallingBots.FallingBots"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Courtyard"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }
+  ], 
+  "Playlist 18/2/20": [
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "The Pad"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": false, 
+     "Equip Boxing Gloves": true, 
+     "Equip Shield": 1, 
+     "Include bomber bots": true, 
+     "Include extra bots": true, 
+     "Include melee bots": true, 
+     "Max Bots": 10, 
+     "Time Limit": 60, 
+     "map": "Rampage"
+    }, 
+    "type": "FallingBots.FallingBots"
+   }, 
+   {
+    "settings": {
+     "Respawn Times": 1.0, 
+     "Score to Win": 21, 
+     "Time Limit": 0, 
+     "map": "Football Stadium"
+    }, 
+    "type": "bsFootball.FootballTeamGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 1, 
+     "Kills to Win Per Player": 5, 
+     "Respawn Times": 0.25, 
+     "Time Limit": 0, 
+     "map": "Football Stadium"
+    }, 
+    "type": "bsDeathMatch.DeathMatchGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": 0, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Monkey Face"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Step Right Up"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": 0, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Roundabout"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 0, 
+     "Equip Boxing Gloves": true, 
+     "Equip Shield": 1, 
+     "Include bomber bots": true, 
+     "Include extra bots": true, 
+     "Include melee bots": true, 
+     "Max Bots": 10, 
+     "Time Limit": 60, 
+     "map": "Rampage"
+    }, 
+    "type": "FallingBots.FallingBots"
+   }, 
+   {
+    "settings": {
+     "Chosen One Gets Gloves": true, 
+     "Chosen One Gets Shield": false, 
+     "Chosen One Time": 30, 
+     "Epic Mode": false, 
+     "Respawn Times": 1.0, 
+     "Time Limit": 0, 
+     "map": "The Pad"
+    }, 
+    "type": "bsChosenOne.ChosenOneGame"
+   }, 
+   {
+    "settings": {
+     "Hold Time": 30, 
+     "Respawn Times": 0.5, 
+     "Time Limit": 0, 
+     "map": "Tip Top"
+    }, 
+    "type": "bsKingOfTheHill.KingOfTheHillGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": 0, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": true, 
+     "Time Limit": 0, 
+     "map": "Rampage"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Football Stadium"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": 0, 
+     "Time Limit": 0, 
+     "map": "Happy Thoughts"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Courtyard"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Epic Mode": 0, 
+     "Respawn Times": 0.25, 
+     "Score to Win": 3, 
+     "Time Limit": 0, 
+     "map": "Bridgit"
+    }, 
+    "type": "bsAssault.AssaultGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": true, 
+     "Time Limit": 0, 
+     "map": "Courtyard"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Doom Shroom"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Step Right Up"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": true, 
+     "Time Limit": 0, 
+     "map": "Roundabout"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Courtyard"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 4, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Roundabout"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": 1, 
+     "Lives Per Player": 4, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Crag Castle"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": 1, 
+     "Epic Mode": false, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 120, 
+     "map": "Football Stadium"
+    }, 
+    "type": "GravityFalls.GravityFalls"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": true, 
+     "Time Limit": 0, 
+     "map": "Bridgit"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }, 
+   {
+    "settings": {
+     "Balance Total Lives": true, 
+     "Epic Mode": true, 
+     "Lives Per Player": 1, 
+     "Respawn Times": 0.25, 
+     "Solo Mode": false, 
+     "Time Limit": 0, 
+     "map": "Rampage"
+    }, 
+    "type": "bsElimination.EliminationGame"
+   }
+  ]
+ }, 
+ "Telnet Password": "@__@", 
+ "Telnet Port": 43250, 
+ "launchCount": 693, 
+ "lc14": 1, 
+ "lc14146": 1, 
+ "lc14173": 1, 
+ "lc14292": 1, 
+ "lc14c": 1
+}
